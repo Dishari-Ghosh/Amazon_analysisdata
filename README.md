@@ -10,3 +10,6 @@ This Python project involved analyzing Amazon product sales data for the year 20
 ✅ Effective data visualization using Matplotlib to represent sales figures and product performance.
 
 I'm excited to use these skills to explore more e-commerce sales data and contribute to a better understanding of consumer behavior and product success on platforms like Amazon.
+
+<h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
+<h3 align="center" style="color:#e74c3c;">Created By: Dishari Ghosh</h3>
